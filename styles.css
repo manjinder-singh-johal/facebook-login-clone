@@ -5,11 +5,58 @@
 }
 
 .main {
-    background-color: red;
-    height: 75%;
+    text-align: center;
+    background-color: lightgray;
+    height: 500px;
+    width: 100%;
 }
 
-.footer {
-    background-color: green;
-    height: 25%;
+h2 {
+    color: blue;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.form {
+    margin-left: 160px;
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+p {
+    padding-top: 25px;
+    font-size: 25px;
+}
+
+.form-info1, .form-info2 {
+    margin-top: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 340px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: darkgrey solid 2px;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    margin-top: 20px;
+    padding: 10px;
+    width: 360px;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 5px;
+    font: bold;
+}
+
+.form-links {
+    font-size: 20px;
+    color: blue;
+    padding-top: 15px;
 }
